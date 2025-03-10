@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "o9VEpCGZ/O/+HB/ZqRBog4m1EXRPww9d3kauDbPQjKc=",
+  "Source": "Api-Security",
+  "BasePath": "_content/Api-Security",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
