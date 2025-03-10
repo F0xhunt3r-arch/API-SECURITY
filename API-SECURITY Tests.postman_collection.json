@@ -24,7 +24,20 @@
                     ]
                 }
             },
-            "response": []
+            "response": [],
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 200\", function () {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ]
         },
         {
             "name": "Get Product by ID",
@@ -32,7 +45,7 @@
                 "method": "GET",
                 "header": [],
                 "url": {
-                    "raw": "http://localhost:5221/api/products/4",
+                    "raw": "http://localhost:5221/api/products/1",
                     "protocol": "http",
                     "host": [
                         "localhost"
@@ -45,7 +58,20 @@
                     ]
                 }
             },
-            "response": []
+            "response": [],
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 200\", function () {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ]
         },
         {
             "name": "Create New Product",
@@ -74,7 +100,20 @@
                     ]
                 }
             },
-            "response": []
+            "response": [],
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 201\", function () {",
+                            "    pm.response.to.have.status(201);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ]
         },
         {
             "name": "Update Product",
@@ -91,7 +130,7 @@
                     "raw": "{\"id\": 1, \"name\": \"Updated Product\", \"price\": 40.0}"
                 },
                 "url": {
-                    "raw": "http://localhost:5221/api/products/4",
+                    "raw": "http://localhost:5221/api/products/1",
                     "protocol": "http",
                     "host": [
                         "localhost"
@@ -104,7 +143,20 @@
                     ]
                 }
             },
-            "response": []
+            "response": [],
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 204\", function () {",
+                            "    pm.response.to.have.status(204);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ]
         },
         {
             "name": "Delete Product",
@@ -125,7 +177,20 @@
                     ]
                 }
             },
-            "response": []
+            "response": [],
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 204\", function () {",
+                            "    pm.response.to.have.status(204);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ]
         }
     ]
 }
