@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\DevSecOps_Final\\Final_devops\\Api-Security\\Api-Security.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\DevSecOps_API_NET_SWAGGER\\API-SECURITY\\Api-Security.csproj",
       "projectName": "Api-Security",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\DevSecOps_Final\\Final_devops\\Api-Security\\Api-Security.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\DevSecOps_API_NET_SWAGGER\\API-SECURITY\\Api-Security.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\DevSecOps_Final\\Final_devops\\Api-Security\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\DevSecOps_API_NET_SWAGGER\\API-SECURITY\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
