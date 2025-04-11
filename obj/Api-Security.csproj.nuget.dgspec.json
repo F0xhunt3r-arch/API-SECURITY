@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\DevSecOps_API_NET_SWAGGER\\API-SECURITY\\Api-Security.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\DevSecOps_Proyecto_Final\\API-SECURITY\\API-SECURITY.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\DevSecOps_API_NET_SWAGGER\\API-SECURITY\\Api-Security.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\DevSecOps_Proyecto_Final\\API-SECURITY\\API-SECURITY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\DevSecOps_API_NET_SWAGGER\\API-SECURITY\\Api-Security.csproj",
-        "projectName": "Api-Security",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\DevSecOps_API_NET_SWAGGER\\API-SECURITY\\Api-Security.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\DevSecOps_Proyecto_Final\\API-SECURITY\\API-SECURITY.csproj",
+        "projectName": "API-SECURITY",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\DevSecOps_Proyecto_Final\\API-SECURITY\\API-SECURITY.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\DevSecOps_API_NET_SWAGGER\\API-SECURITY\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\DevSecOps_Proyecto_Final\\API-SECURITY\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.3.1, )"
+              "version": "[8.1.1, )"
             }
           },
           "imports": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

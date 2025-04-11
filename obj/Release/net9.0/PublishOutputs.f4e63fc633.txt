@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\API-SECURITY.exe
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\API-SECURITY Tests.postman_collection.json
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\appsettings.Development.json
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\appsettings.json
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\API-SECURITY.dll
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\API-SECURITY.deps.json
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\API-SECURITY.runtimeconfig.json
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\API-SECURITY.pdb
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\DevSecOps_Proyecto_Final\API-SECURITY\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
